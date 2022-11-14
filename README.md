@@ -61,8 +61,6 @@ chmod a+x trade_operation_mini_project.py
 
 - imdb_top_250_movies.csv: A csv file that stores movies' information
 
-- trade_operation_mini_project.html: Same content as in .py. Can be opened in a browser to view code and charts
-
 - trade_operation_mini_project.ipynb: Same content as in .py. The file can be opened with Jupyter Notebook and run the code
 
 ## Code Specification
