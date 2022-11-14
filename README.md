@@ -1,4 +1,4 @@
-# Trade Operation Mini Project 
+# IMDB top 250 movies analysis project 
 
 ## Introduction
 
