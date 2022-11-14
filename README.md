@@ -57,8 +57,6 @@ chmod a+x trade_operation_mini_project.py
 
 ### Other document notes
 
-- logs folder: Storing the log files
-
 - Create Table.sql: Used to create db table under your MySQL database
 
 - imdb_top_250_movies.csv: A csv file that stores movies' information
